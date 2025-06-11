@@ -1,0 +1,11 @@
+{
+  "name": "backend_project_newtube",
+  "version": "1.0.0",
+  "description": "A backend website for uploading and downloading videos from the internet and also having the functionality to store liked and watch later videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Chaubal",
+  "license": "ISC"
+}
