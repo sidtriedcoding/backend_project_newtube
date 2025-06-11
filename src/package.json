@@ -1,0 +1,20 @@
+{
+  "name": "backend_project_newtube",
+  "version": "1.0.0",
+  "description": "A backend website for uploading and downloading videos from the internet and also having the functionality to store liked and watch later videos",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "backend_project_newtube"
+  ],
+  "author": "Siddharth Chaubal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
